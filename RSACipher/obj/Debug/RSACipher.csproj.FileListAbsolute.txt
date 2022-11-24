@@ -1,0 +1,10 @@
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\bin\Debug\RSACipher.exe.config
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\bin\Debug\RSACipher.exe
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\bin\Debug\RSACipher.pdb
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\obj\Debug\RSACipher.csproj.AssemblyReference.cache
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\obj\Debug\RSACipher.Form1.resources
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\obj\Debug\RSACipher.Properties.Resources.resources
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\obj\Debug\RSACipher.csproj.GenerateResource.cache
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\obj\Debug\RSACipher.csproj.CoreCompileInputs.cache
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\obj\Debug\RSACipher.exe
+C:\Users\Radmir\source\repos\RSACipher\RSACipher\obj\Debug\RSACipher.pdb
